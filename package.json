@@ -4,6 +4,7 @@
   "description": "Neal's Spot CNY trader",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/appop/spot-trader/issues"
   },
-  "homepage": "https://github.com/appop/spot-trader#readme"
+  "homepage": "https://github.com/appop/spot-trader#readme",
+  "dependencies": {
+    "btcchina": "^0.1.1"
+  }
 }
