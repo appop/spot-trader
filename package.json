@@ -1,0 +1,26 @@
+{
+  "name": "spot-trader",
+  "version": "1.0.0",
+  "description": "Neal's Spot CNY trader",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appop/spot-trader.git"
+  },
+  "keywords": [
+    "Neal",
+    "BTCChina",
+    "Spot",
+    "CNY",
+    "Trader"
+  ],
+  "author": "Neal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appop/spot-trader/issues"
+  },
+  "homepage": "https://github.com/appop/spot-trader#readme"
+}
